@@ -12,3 +12,14 @@ if disk_usage > 80:
 cpu_load =70
 if disk_usage > 80 or cpu_load >85:
     print("restart the server")
+
+
+a = 10
+print(a)
+a += 2
+print(a)
+a -= 3
+print(a)
+a *= 2
+print(a)
+
